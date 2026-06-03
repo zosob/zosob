@@ -1,6 +1,6 @@
 # Hello! 
 
-I’m an Assistant Professor of Computer Science & Cybersecurity, and my work focuses on **LLMs, multi-agent systems, computer vision, explainable AI, neurosymbolic AI, cybersecurity, and practical software engineering**. I also contribute to **ElderConnect**, an AI-driven cybersecurity research initiative focused on helping seniors defend against digital threats such as phishing, vishing, baiting, and pretexting. 
+I’m an Assistant Professor of Computer Science & Cybersecurity, and my work focuses on *LLMs, multi-agent systems, computer vision, explainable AI, neurosymbolic AI, cybersecurity, and practical software engineering*. I also contribute to *ElderConnect*, an AI-driven cybersecurity research initiative focused on helping seniors defend against digital threats such as phishing, vishing, baiting, and pretexting. 
 
 I build at the intersection of **AI, software, and curiosity**.
 
